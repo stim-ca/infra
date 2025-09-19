@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "redhat.ansible",
+    "oderwat.indent-rainbow",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github"
+  ]
+}
