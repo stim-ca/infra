@@ -1,3 +1,4 @@
+.vscode/settings.json
 .logs/*
 *.retry
 *.vault
@@ -175,3 +176,4 @@ cython_debug/
 
 # Ansible
 .ansible/
+.vscode/settings.json
