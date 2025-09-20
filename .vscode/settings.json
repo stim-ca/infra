@@ -1,4 +1,4 @@
 {
     "python-envs.pythonProjects": [],
-    "ansible.python.interpreterPath": "/home/stim-ca/python-env/env/bin/python"
+    "ansible.python.interpreterPath": "/home/stim-ca/git_repos/infra/.env/bin/python"
 }
